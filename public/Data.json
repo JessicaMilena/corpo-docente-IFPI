@@ -1,0 +1,47 @@
+{
+    "professores": [
+      {
+        "id": 1,
+        "nome": "Carlos Estevão Bastos Sousa",
+        "foto": "./estevao.jpg",
+        "formacao": "O professor Estevão é Graduado em Sistemas de informação - FIED e/nPós-graduado em Gerenciamento de Projetos- UCAM,/nalém de Mestre em Ciências da Computação - IFCE.",
+        "lattes": "url-do-curriculo-1"
+      },
+      {
+        "id": 2,
+        "nome": "Tulio Vidal Rolim",
+        "foto": "./tulio.jpg",
+        "formacao": "O professor Tulio Vidal, é doudourando em Ciências da Computação(UFC) e Mestre em Ciências da Computação (UFC), além de especialista em Engenharia de Software e graduado em Análise e Desenvolvimento de Sistemas. ",
+        "lattes": "url-do-curriculo-2"
+      },
+      {
+        "id": 3,
+        "nome": "Ronielle Medeiros Rocha",
+        "foto": "ronielle.jpg",
+        "formacao": "Ronielle é Graduado em Administração, Especialista em Gestão Empresarial, especialista em psicopedagogia e especialista em docência do Ensino Superior. Atualmente cursa mestrado em Administração e Controladoria pela Universidade Federal do Ceará(UFC).",
+        "lattes": "url-do-curriculo-2"
+      },
+      {
+        "id": 4,
+        "nome": "Adalgisa Maria de Oliveira",
+        "foto": "adalgisa.jpg",
+        "formacao": "Adalgisa é Licenciada em Matemática-UESPI, Especialista em Metodologia do ensino da matemática e Matematica Financeira. Mestra em Matemática- PROFMAT/IFPI e Doudouranda em ensino de Ciências e Matemática pela UPF-RS",
+        "lattes": "url-do-curriculo-2"
+      },
+      {
+        "id": 5,
+        "nome": "Marcos Antônio O. Rodrigues Gomes",
+        "foto": "marcos.jpg",
+        "formacao": "Marcos Rodrigues é licenciado em ciencias biológicas-IFRO, especialista em docencia do ensino superior- Faculdade Ypê e mestre em educação-UFMT",
+        "lattes": "url-do-curriculo-2"
+      },
+      {
+        "id": 6,
+        "nome": "Erisvaldo Ramalho dos Santos Júnior",
+        "foto": "erisvaldo.jpg",
+        "formacao": "Oprofessor Erisvaldo é licenciado em Física pela UFRN e Mestrando profissional em ensino de Física pela UFRN. Sua aréa de pesquisa é sobre a inserção de história e filosofia da ciência no ensino de fisíca. Em 2022 atuou como professor no IFRN.",
+        "lattes": "url-do-curriculo-2"
+      }
+    ]
+  }
+  
